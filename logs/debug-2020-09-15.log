@@ -1,0 +1,85 @@
+2020-09-15 18:39:35 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.UnsatisfiedLinkError: no jnetpcap in java.library.path
+2020-09-15 18:39:35 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.UnsatisfiedLinkError: no jnetpcap in java.library.path
+2020-09-15 18:39:38 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2020-09-15 18:39:38 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2020-09-15 18:39:39 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2020-09-15 18:39:39 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2020-09-15 18:39:39 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2020-09-15 18:39:39 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2020-09-15 18:39:39 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2020-09-15 18:39:39 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2020-09-15 18:39:39 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2020-09-15 18:39:39 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2020-09-15 18:39:39 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2020-09-15 18:39:39 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2020-09-15 18:39:40 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2020-09-15 18:39:40 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2020-09-15 18:39:40 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2020-09-15 18:39:40 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2020-09-15 18:39:40 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2020-09-15 18:39:40 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2020-09-15 18:39:40 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2020-09-15 18:39:40 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2020-09-15 18:39:40 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2020-09-15 18:39:40 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2020-09-15 18:40:00 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2020-09-15 18:40:00 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2020-09-15 18:42:17 DEBUG swing.common.SwingUtils    D:\百度云\BaiduNetdisk (拒绝访问。)
+2020-09-15 18:42:48 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input D:\网络\css_pcaps\0__a1_out (2).pcap
+2020-09-15 18:42:58 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output D:\网络\css_pcaps
+2020-09-15 18:43:15 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output C:\Users\lenovo\Desktop
+2020-09-15 18:44:14 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output C:\Users\lenovo\Desktop\hello
+2020-09-15 18:44:17 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output C:\Users\lenovo\Desktop\hello
+2020-09-15 18:44:26 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2020-09-15 18:44:26 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2020-09-15 18:44:31 DEBUG swing.common.SwingUtils    C:\Users\lenovo\Desktop\hello (拒绝访问。)
+2020-09-15 18:44:31 DEBUG swing.common.SwingUtils    C:\Users\lenovo\Desktop\新建文件夹 (拒绝访问。)
+2020-09-15 18:44:31 DEBUG swing.common.SwingUtils    C:\Users\lenovo\Desktop\源码 (拒绝访问。)
+2020-09-15 18:44:31 DEBUG swing.common.SwingUtils    C:\Users\lenovo\Desktop\逆向160的Temp文件 (拒绝访问。)
+2020-09-15 18:44:37 DEBUG swing.common.SwingUtils    D:\百度云\BaiduNetdisk (拒绝访问。)
+2020-09-15 18:44:45 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input D:\网络\css_pcaps\0__a1_out (9).pcap
+2020-09-15 18:44:59 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input D:\网络\css_pcaps\0__a1_out.pcap
+2020-09-15 18:45:34 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2020-09-15 18:45:34 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2020-09-15 18:45:43 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input D:\网络\css_pcaps\0__a1_out (24).pcap
+2020-09-15 18:46:52 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input C:\Users\lenovo\Desktop\bypassmix_pcap\client-subtest_0_core0-trace0.pcap
+2020-09-15 18:49:05 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input C:\Users\lenovo\Desktop\bypassmix_pcap\client-subtest_0_core0-trace0.pcap
+2020-09-15 18:49:09 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output C:\Users\lenovo\Desktop\hello
+2020-09-15 20:03:28 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input C:\Users\lenovo\Desktop\bypassmix_pcap\client-subtest_0_core0-trace0.pcap
+2020-09-15 20:03:31 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output C:\Users\lenovo\Desktop\hello
+2020-09-15 20:04:20 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input C:\Users\lenovo\Desktop\bypassmix_pcap\client-subtest_0_core0-trace0.pcap
+2020-09-15 20:04:24 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output C:\Users\lenovo\Desktop\hello
+2020-09-15 20:04:28 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output C:\Users\lenovo\Desktop\bypassmix_pcap
+2020-09-15 20:05:15 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input C:\Users\lenovo\Desktop\bypassmix_pcap\client-subtest_0_core0-trace0.pcap
+2020-09-15 20:05:17 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output C:\Users\lenovo\Desktop\bypassmix_pcap
+2020-09-15 20:06:44 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input C:\Users\lenovo\Desktop\bypassmix_pcap\client-subtest_0_core0-trace0.pcap
+2020-09-15 20:06:45 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output C:\Users\lenovo\Desktop\bypassmix_pcap
+2020-09-15 20:07:31 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input C:\Users\lenovo\Desktop\bypassmix_pcap\client-subtest_0_core0-trace0.pcap
+2020-09-15 20:07:32 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output C:\Users\lenovo\Desktop\bypassmix_pcap
+2020-09-15 20:07:42 DEBUG swing.common.SwingUtils    C:\Users\lenovo\Desktop\bypassmix_pcap (拒绝访问。)
+2020-09-15 20:07:42 DEBUG swing.common.SwingUtils    C:\Users\lenovo\Desktop\hello (拒绝访问。)
+2020-09-15 20:07:42 DEBUG swing.common.SwingUtils    C:\Users\lenovo\Desktop\新建文件夹 (拒绝访问。)
+2020-09-15 20:07:42 DEBUG swing.common.SwingUtils    C:\Users\lenovo\Desktop\源码 (拒绝访问。)
+2020-09-15 20:07:42 DEBUG swing.common.SwingUtils    C:\Users\lenovo\Desktop\逆向160的Temp文件 (拒绝访问。)
+2020-09-15 20:08:13 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input D:\网络\css_pcaps\0__a1_out (3).pcap
+2020-09-15 20:08:25 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output C:\Users\lenovo\Desktop
+2020-09-15 20:10:06 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input C:\Users\lenovo\Desktop\bypassmix_pcap\client-subtest_0_core0-trace0.pcap
+2020-09-15 20:10:08 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output C:\Users\lenovo\Desktop\bypassmix_pcap
+2020-09-15 20:11:52 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input C:\Users\lenovo\Desktop\bypassmix_pcap\client-subtest_0_core0-trace0.pcap
+2020-09-15 20:11:54 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output C:\Users\lenovo\Desktop\bypassmix_pcap
+2020-09-15 20:12:39 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input C:\Users\lenovo\Desktop\bypassmix_pcap\client-subtest_0_core0-trace0.pcap
+2020-09-15 20:12:40 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output C:\Users\lenovo\Desktop\bypassmix_pcap
+2020-09-15 20:12:54 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input C:\Users\lenovo\Desktop\bypassmix_pcap\client-subtest_0_core0-trace0.pcap
+2020-09-15 20:12:58 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output C:\Users\lenovo\Desktop\hello
+2020-09-15 20:18:33 DEBUG swing.common.SwingUtils    D:\百度云\BaiduNetdisk (拒绝访问。)
+2020-09-15 20:18:47 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input D:\tests\02-sunrise-sunset-esp.pcap
+2020-09-15 20:18:49 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output D:\tests
+2020-09-15 20:42:37 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input C:\Users\lenovo\Desktop\bypassmix_pcap\client-subtest_0_core0-trace0.pcap
+2020-09-15 20:42:43 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output C:\Users\lenovo\Desktop\bypassmix_pcap
+2020-09-15 20:42:58 DEBUG swing.common.SwingUtils    C:\Users\lenovo\Desktop\bypassmix_pcap (拒绝访问。)
+2020-09-15 20:42:58 DEBUG swing.common.SwingUtils    C:\Users\lenovo\Desktop\hello (拒绝访问。)
+2020-09-15 20:42:58 DEBUG swing.common.SwingUtils    C:\Users\lenovo\Desktop\新建文件夹 (拒绝访问。)
+2020-09-15 20:42:58 DEBUG swing.common.SwingUtils    C:\Users\lenovo\Desktop\源码 (拒绝访问。)
+2020-09-15 20:42:58 DEBUG swing.common.SwingUtils    C:\Users\lenovo\Desktop\逆向160的Temp文件 (拒绝访问。)
+2020-09-15 20:43:30 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input D:\tests\babel_pad1.pcap
+2020-09-15 20:43:43 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output D:\tests
